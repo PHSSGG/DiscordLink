@@ -1,0 +1,6 @@
+name: DiscordLink
+version: 1.0
+main: phss.discordlink.DiscordLink
+author: PHSS
+commands:
+  link:

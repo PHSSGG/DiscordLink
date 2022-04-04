@@ -1,0 +1,10 @@
+Messages:
+  onlyInGame: "&cThis command is allowed only in-game"
+  alreadyLinked: "&cYour account is already linked"
+  alreadyGeneratedACode: "&cYou've already generated a code"
+  codeGenerated: "&aUse the code &e&l{code} &ato link your account"
+  accountLinked: "&aAccount linked"
+  discord:
+    alreadyLinked: ":x: - Your account is already linked"
+    codeNotFound: ":x: - This code don't exists"
+    accountLinked: "Account linked"

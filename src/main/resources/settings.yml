@@ -1,0 +1,10 @@
+Database:
+  mysql: false
+  hostname: "localhost"
+  port: 3306
+  database: "DiscordLink"
+  username: "root"
+  password: ""
+
+Discord:
+  token: "TOKEN"
